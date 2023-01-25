@@ -60,7 +60,7 @@ Manager, L2 Technical Support - *Cint AB*
 
 ## Education
 
-`2003-2008`
+`2008`
 **A.A., Visual Communications**, *Delgado Community College*, New Orleans, LA, USA.
 
 ## Professional Training
