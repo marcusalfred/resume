@@ -8,8 +8,7 @@ Manager, L2 Technical Support - *Cint AB*
 <a href="mac987@gmail.com">mac987@gmail.com</a> - (504) 975-9332
 
 <div id="webaddress">
-  <a href="https://www.linkedin.com/in/marcus-carter-91bb2612b/"><i class="fab fa-linkedin-in"></i> linkedin.com/in/marcus-carter-91bb2612b</a><br/>
-  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a>
+  <a href="https://www.linkedin.com/in/marcus-carter-91bb2612b/"><i class="fab fa-linkedin-in"></i> linkedin.com/in/marcus-carter-91bb2612b</a>
 </div>
 
 ## Experience
@@ -17,49 +16,54 @@ Manager, L2 Technical Support - *Cint AB*
 ### __Cint AB__ fka Lucid LLC
  
 
-`2021-present`
+`2022-03 -> present`
 **Manager, L2 Support**, New Orleans, LA.<br/>
 - Managed a small international team of support analysts that provide 24 hour support for multiple product areas. 
-- Created monthy reports for common bug trends and incidents using JIRA's API. 
+- Created monthy reports and visualizations for common bug trends and incidents using python and JIRA's API. 
 - Acted as an incident manager during incidents to communicate via our status page with customers when an incident or outage occurs. 
 
-`2013-2023`
-**L2 Technical Support Engineer**, New Orleans, LA.<br/> 
-- Mentored and trained L2 and L1 support on technical systems and processes
+`2021-03 -> 2022-03`
+**L2 Technical Support Engineer II**, New Orleans, LA.<br/> 
+- Mentored and trained L2 and L1 support on technical systems and processes.p
 - Created python and/or SQL scripts for common tasks involving bulk updates or incident cleanup.
 - Worked with Finance and Engineering to identify and resolve month end discrepancies in transaction data. 
 
 
-`2017-2020`
+`2018-09 -> 2021-03`
 **L2 Technical Support Associate**, New Orleans, LA.<br/>
-- Onboarded SDETs on products and technical systems.
-- Worked with SDETs to create an E2E testing framework. 
-- Support Product teams with issue prioritazation based. 
+- Onboarded SDETs on products and technical systems to help create an E2E testing framework. 
+- Support Product teams with issue prioritazation based on customer and revenue impact. 
 - Identifed an issue's impact using SQL and other monitoring services like Kibana, Grafana, New Relic, and Sentry. 
 
-`2013-2016`
+`2017-08 -> 2018-09`
 **Product Analyst**, New Orleans, LA.<br/>
 - Supporting the product organization with bug intake and analysis of product trends and opportunities. 
-- Manual QA of API and UI bug fixes and features releases. 
+- Manual QA of API and UI bug fixes and new feature releases. 
 - Implemented a formal bug intake and incident management process.
 - Launched a public status page for incident management were customers could subscribe to recieve updates. 
 
 ### __Search Influence__
 
-`2009-2012`
+`2016-11 -> 2017-03`
 **Junior Technical Internet Marketing Associate**, New Orleans, LA.<br/> 
+- Completed tasks updating Wordpress Sites, and social media profiles to expand customer's web presence and searchability.
+- Peer reviewed others team members tasks.
 
 ### __Arts Council of New Orleans__
 
-`2008-2009`
+`2014-11 -> 2016-11`
 **Documentarian**, New Orleans, LA.<br/> 
+- Captured and organized media of artwork and events.
+- Implmented inventory management of the Arts Council's purchased pieces.
+- Maintained wordpress site by updating content related to events and artist stories, 
+- Started a youtube series documenting artists that partnered with the organization.
 
 ## Education
 
 `2003-2008`
 **A.A., Visual Communications**, *Delgado Community College*, New Orleans, LA, USA.
 
-## Professional training
+## Professional Training
 
 `2020`
 **CS50 Python**, *HarvardX's Computer Science for Python Programming*, Online<br/>
