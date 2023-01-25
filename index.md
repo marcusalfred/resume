@@ -24,7 +24,7 @@ Manager, L2 Technical Support - *Cint AB*
 
 `2021-03 -> 2022-03`
 **L2 Technical Support Engineer II**, New Orleans, LA.<br/> 
-- Mentored and trained L2 and L1 support on technical systems and processes.p
+- Mentored and trained L2 and L1 support on technical systems and processes.
 - Created python and/or SQL scripts for common tasks involving bulk updates or incident cleanup.
 - Worked with Finance and Engineering to identify and resolve month end discrepancies in transaction data. 
 
@@ -47,7 +47,7 @@ Manager, L2 Technical Support - *Cint AB*
 `2016-11 -> 2017-03`
 **Junior Technical Internet Marketing Associate**, New Orleans, LA.<br/> 
 - Completed tasks updating Wordpress Sites, and social media profiles to expand customer's web presence and searchability.
-- Peer reviewed others team members tasks.
+- Peer reviewed others team members tasks for accuracy. 
 
 ### __Arts Council of New Orleans__
 
