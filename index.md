@@ -5,11 +5,14 @@ title: Marcus Alfred Carter's Resume
 # Marcus Alfred Carter
 Manager, L2 Technical Support - *Cint AB*
 
-<a href="mac987@gmail.com">mac987@gmail.com</a> - (504) 975-9332
+<a href="me@malf.red">me@malf.red</a> - (504) 975-9332]
 
 <div id="webaddress">
-  <a href="https://www.linkedin.com/in/marcus-carter-91bb2612b/"><i class="fab fa-linkedin-in"></i> linkedin.com/in/marcus-carter-91bb2612b</a>
+  <a href="https://www.linkedin.com/in/marcus-carter-91bb2612b/"><i class="fab fa-linkedin-in"></i> linkedin.com/in/marcus-carter-91bb2612b</a> - 
+  <a href="https://github.com/marcusalfred/resume/raw/main/media/resume_2022-01-25.pdf"><i class="fas fa-download"></i> PDF Version</a>
 </div>
+
+
 
 ## Experience
 
@@ -18,15 +21,15 @@ Manager, L2 Technical Support - *Cint AB*
 
 `2022-03 -> present`
 **Manager, L2 Support**, New Orleans, LA.<br/>
-- Managed a small international team of support analysts that provide 24 hour support for multiple product areas. 
-- Created monthy reports and visualizations for common bug trends and incidents using python and JIRA's API. 
-- Acted as an incident manager during incidents to communicate via our status page with customers when an incident or outage occurs. 
+- Manage an international team of support analysts that provide 24 hour support for multiple product areas. 
+- Create monthy reports and visualizations for common bug trends and incidents using python and JIRA's API. 
+- Act as an incident manager during incidents to communicate via our status page with customers when an incident or outage occurs. 
 
 `2021-03 -> 2022-03`
 **L2 Technical Support Engineer II**, New Orleans, LA.<br/> 
 - Mentored and trained L2 and L1 support on technical systems and processes.
 - Created python and/or SQL scripts for common tasks involving bulk updates or incident cleanup.
-- Worked with Finance and Engineering to identify and resolve month end discrepancies in transaction data. 
+- Worked with Finance and Engineering to identify and resolve month end discrepancies in transaction data.
 
 
 `2018-09 -> 2021-03`
@@ -65,8 +68,8 @@ Manager, L2 Technical Support - *Cint AB*
 
 ## Professional Training
 
-`2020`
-**CS50 Python**, *HarvardX's Computer Science for Python Programming*, Online<br/>
+`2023`
+**CS50 Python**, *HarvardX's Computer Science for Python Programming*, Online - In Progress<br/>
 
 
 `2019`
@@ -85,4 +88,4 @@ Residence: New Orleans, LA
 Family: Married, two children
 -->
 
-<br/>Last updated: January 2023 <br/><br/>
+<br/>Last updated: December 2023 <br/><br/>
