@@ -9,7 +9,7 @@ Manager, L2 Technical Support - *Cint AB*
 
 <div id="webaddress">
   <a href="https://www.linkedin.com/in/marcus-carter-91bb2612b/"><i class="fab fa-linkedin-in"></i> linkedin.com/in/marcus-carter-91bb2612b</a> - 
-  <a href="https://github.com/marcusalfred/resume/raw/main/media/resume_2022-01-25.pdf"><i class="fas fa-download"></i> PDF Version</a>
+  <a href="https://github.com/marcusalfred/resume/raw/main/media/2023-12-12-resume.pdf"><i class="fas fa-download"></i> PDF Version</a>
 </div>
 
 
